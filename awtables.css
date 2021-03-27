@@ -1,3 +1,7 @@
 .at-action-menu-icon>.at-action-menu-trigger{
 display: none;
 }
+
+.google-visualization-table .gradient{
+background-color: red;
+}
